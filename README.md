@@ -2,6 +2,7 @@
 
 Welcome to my 45-day journey as a Cloud & DevOps Engineer at Elevate Labs. This repository documents the projects, tools, and impact I delivered during my internship — focused on automation, scalability, and cloud-native excellence.
 
+![snake gif](https://github.com/Roshan-saral/ELEVATE-LABS/blob/output/github-snake-dark.svg)
 ---
 
 ## 🎯 Internship Goals
